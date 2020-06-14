@@ -1,0 +1,5 @@
+.jumbotron {
+  background: linear-gradient(teal, transparent),
+  url('img/kidney.jpg');
+  background-size: cover;
+}
