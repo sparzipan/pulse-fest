@@ -3,3 +3,14 @@
   url('img/kidney.jpg');
   background-size: cover;
 }
+
+.carousel-item::after {
+  content: "";
+  background: linear-gradient(maroon, teal);
+  opacity: .5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+}
