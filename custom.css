@@ -14,3 +14,8 @@
   right: 0;
   position: absolute;
 }
+
+h1 {
+  color: #B53367;
+  text-shadow: 1px 1px 3px gray;
+}
